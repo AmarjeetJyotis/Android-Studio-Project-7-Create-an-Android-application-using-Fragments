@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">fragmentexample</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hello_i_am_from_chandigarh_university">hello_I am from Chandigarh University</string>
+    <string name="hello_my_section_is_650_a">hello_My section is 650/A</string>
+    <string name="this_is_fragment_2_shashank_kumar">This is Fragment 2_Shashank Kumar</string>
+    <string name="this_is_fragment_1_shashank_kumar">This is Fragment 1_Shashank Kumar</string>
+    <string name="this_is_fragment_2_uid_21bcs10950">this_is_fragment_2_UID-21BCS10950</string>
+    <string name="this_is_fragment_2">this_is_fragment_2</string>
+    <string name="this_is_fragment_1">this_is_fragment_1</string>
+    <string name="devansh_singh">Devansh Singh</string>
+    <string name="aman_raj">Aman Raj</string>
+</resources>
